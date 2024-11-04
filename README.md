@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Jose Miguel 👋</h1>
 
 <p align="center">
-  <img src="[https://media.giphy.com/media/l0HlSNOxJB956qwfK/giphy.gif](https://media.licdn.com/dms/image/v2/D4D03AQF7b8EZVHMyUg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1723368991659?e=2147483647&v=beta&t=utPKtiJHnusPHYo-r-i20YPRci_gBx3_W6PHC8szjTA)" width="300"/>
+  <img src="https://media.giphy.com/media/l0HlSNOxJB956qwfK/giphy.gif](https://media.licdn.com/dms/image/v2/D4D03AQF7b8EZVHMyUg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1723368991659?e=2147483647&v=beta&t=utPKtiJHnusPHYo-r-i20YPRci_gBx3_W6PHC8szjTA)" width="300"/>
 </p>
 
 <p align="center">
