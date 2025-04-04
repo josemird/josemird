@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Jose Miguel and I'm Web Developer👋</h1>
 
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4D03AQF7b8EZVHMyUg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1723368991675?e=1749081600&v=beta&t=PVUysbHqr8In3D_f9V7eEs52tCv_R8IEmORmldufvtE" width="250"/>
+  <img src="https://media.licdn.com/dms/image/v2/D4D03AQF7b8EZVHMyUg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1723368991675?e=1749081600&v=beta&t=PVUysbHqr8In3D_f9V7eEs52tCv_R8IEmORmldufvtE" width="150"/>
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
 ### 🚀 About Me
 - 🌱 Currently learning: **Angular & Laravel**
 - ⚡ Working on: **Gymbros App**
-- 📫 Reach me at: **josemidaw22@gmail.com**
+- 📫 Reach me at: **https://www.linkedin.com/in/josemird/**
 
 ---
 
@@ -50,7 +50,7 @@ Here are a few of my projects that I'm proud of or I'm working on:
 
 ### 🌍 Le's Connect
 <p align="center">
-  <a href="https://www.linkedin.com/in/josemird/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn" /></a> <br>
+  <a href="https://www.linkedin.com/in/josemird/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedIn" alt="LinkedIn" /></a> <br>
   <a href="https://www.instagram.com/josemird_/"><img src="https://img.shields.io/badge/Instagram-ff69b4?style=flat&logo=instagram" alt="Instagram" /></a> <br>
   <a href="mailto:josemidaw22@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
