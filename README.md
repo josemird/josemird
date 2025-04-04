@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Jose Miguel and I'm Web Developer👋</h1>
+<h1 align="center">Jose Miguel / Web Developer👋</h1>
 
 <p align="center">
   <img src="https://media.licdn.com/dms/image/v2/D4D03AQF7b8EZVHMyUg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1723368991675?e=1749081600&v=beta&t=PVUysbHqr8In3D_f9V7eEs52tCv_R8IEmORmldufvtE" width="150"/>
@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/josemird/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedIn" alt="LinkedIn" /></a> <br>
-  <a href="https://www.instagram.com/josemird_/"><img src="https://img.shields.io/badge/Instagram-ff69b4?style=flat&logo=instagram" alt="Instagram" /></a> <br>
-  <a href="mailto:josemidaw22@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://www.linkedin.com/in/josemird/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedIn" alt="LinkedIn" /></a> 
+   <a href="mailto:josemidaw22@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.instagram.com/josemird_/"><img src="https://img.shields.io/badge/Instagram-ff69b4?style=flat&logo=instagram" alt="Instagram" /></a> 
 </p>
 
 ---
@@ -19,11 +19,12 @@
 ### 🚀 About Me
 - 🌱 Currently learning: **Angular & Laravel**
 - ⚡ Working on: **Gymbros App**
-- 
+- 💻 Favs: FrontEnd and Design
+- 👌 Hobbies : Videogames and Nature
 ---
 
 ### 🛠️ Tech Stack
-Here are some of the technologies and tools I work with:
+Here are some of the technologies and tools I work:
 
 <div align="center">
   <img src="https://img.shields.io/badge/Markup-HTML5-informational?style=flat&logo=html5&color=E34F26" alt="HTML5" />
