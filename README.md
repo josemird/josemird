@@ -48,10 +48,10 @@ Here are a few of my projects that I'm proud of or I'm working on:
 
 ---
 
-### 🌍 Connect with me
+### 🌍 Le's Connect
 <p align="center">
-  <a href="https://www.linkedin.com/in/josemird/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn" /></a>
-  <a href="https://www.instagram.com/josemird_/"><img src="https://img.shields.io/badge/Instagram-ff69b4?style=flat&logo=instagram" alt="Instagram" /></a>
+  <a href="https://www.linkedin.com/in/josemird/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn" /></a> <br>
+  <a href="https://www.instagram.com/josemird_/"><img src="https://img.shields.io/badge/Instagram-ff69b4?style=flat&logo=instagram" alt="Instagram" /></a> <br>
   <a href="mailto:josemidaw22@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
