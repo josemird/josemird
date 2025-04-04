@@ -8,13 +8,18 @@
   <b>FrontEnd Developer | Full Stack Developer | Design and RRPP</b>
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/josemird/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedIn" alt="LinkedIn" /></a> <br>
+  <a href="https://www.instagram.com/josemird_/"><img src="https://img.shields.io/badge/Instagram-ff69b4?style=flat&logo=instagram" alt="Instagram" /></a> <br>
+  <a href="mailto:josemidaw22@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
 ---
 
 ### 🚀 About Me
 - 🌱 Currently learning: **Angular & Laravel**
 - ⚡ Working on: **Gymbros App**
-- 📫 Reach me at: **https://www.linkedin.com/in/josemird/**
-
+- 
 ---
 
 ### 🛠️ Tech Stack
@@ -33,6 +38,7 @@ Here are some of the technologies and tools I work with:
   <img src="https://img.shields.io/badge/Framework-Flutter-informational?style=flat&logo=flutter&color=02569B" alt="Flutter" />
   <img src="https://img.shields.io/badge/Design-Figma-informational?style=flat&logo=figma&color=F24E1E" alt="Figma" />
 </div>
+
 ---
 
 ### ✨ Projects
@@ -45,15 +51,7 @@ Here are a few of my projects that I'm proud of or I'm working on:
 - [🎲 Proyecto Shoppy](https://github.com/Pizzacorn/shoppy_4)
 - [👔 Proyecto Lawyer Website](https://github.com/josemird/lawyerWebApp)
 
-
 ---
-
-### 🌍 Le's Connect
-<p align="center">
-  <a href="https://www.linkedin.com/in/josemird/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedIn" alt="LinkedIn" /></a> <br>
-  <a href="https://www.instagram.com/josemird_/"><img src="https://img.shields.io/badge/Instagram-ff69b4?style=flat&logo=instagram" alt="Instagram" /></a> <br>
-  <a href="mailto:josemidaw22@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=tu-usuario" alt="Profile Views" />
