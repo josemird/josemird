@@ -35,17 +35,7 @@ Here are some of the technologies and tools I work with:
 </div>
 ---
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=radical" alt="Top Langs" />
-</p>
-
----
-
-### ✨ Fun Projects
+### ✨ Projects
 Here are a few of my projects that I'm proud of or I'm working on:
 
 - [🚀 Proyecto Gymbros FrontEnd](https://github.com/josemird/gymbros-frontend)
