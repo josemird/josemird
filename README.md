@@ -1,22 +1,19 @@
-<h1 align="center">Hi there, I'm Jose Miguel 👋</h1>
+<h1 align="center">Hi there, I'm Jose Miguel and I'm Web Developer👋</h1>
 
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4D03AQF7b8EZVHMyUg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1723368991675?e=1736380800&v=beta&t=wMjK6mlL38DJjr-ddlOm-BEq8XdWLreWZ2MLyvr8zME" width="300"/>
+  <img src="https://media.licdn.com/dms/image/v2/D4D03AQF7b8EZVHMyUg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1723368991675?e=1749081600&v=beta&t=PVUysbHqr8In3D_f9V7eEs52tCv_R8IEmORmldufvtE" width="250" style="border-radius:50%;"/>
 </p>
 
 <p align="center">
-  <b>Full-Stack Developer | Tech Enthusiast | Open-Source Contributor</b>
+  <b>FrontEnd Developer | Full Stack Developer | Design and RRPP</b>
 </p>
 
 ---
 
 ### 🚀 About Me
-- 🌱 Currently learning: **[tecnologías que estás aprendiendo]**
-- 🔭 Working on: **[proyecto actual o meta]**
-- 👯 Open to collaborate on: **Open-source projects, startups, or any cool ideas!**
-- 💬 Ask me about: **JavaScript, React, Node.js, Python, APIs, and more!**
-- 📫 Reach me at: **[tu email o red social]**
-- ⚡ Fun fact: **[algún dato curioso sobre ti]**
+- 🌱 Currently learning: **[Angular and Laravel]**
+- ⚡ Working on: **[Gymbros App]**
+- 📫 Reach me at: **[josemidaw22@gmail.com]**
 
 ---
 
@@ -25,13 +22,14 @@ Here are some of the technologies and tools I work with:
 
 <div align="center">
   <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&color=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Backend-Node.js-informational?style=flat&logo=node.js&color=339933" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&color=47A248" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/DevOps-Docker-informational?style=flat&logo=docker&color=2496ED" alt="Docker" />
+  <img src="https://img.shields.io/badge/Framework-Angular-informational?style=flat&logo=angular&color=DD0031" alt="Angular" />
+  <img src="https://img.shields.io/badge/Framework-Laravel-informational?style=flat&logo=laravel&color=FF2D20" alt="Laravel" />
+  <img src="https://img.shields.io/badge/Style-SCSS-informational?style=flat&logo=sass&color=CC6699" alt="SCSS" />
+  <img src="https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&color=4479A1" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Backend-Firebase-informational?style=flat&logo=firebase&color=FFCA28" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Framework-Flutter-informational?style=flat&logo=flutter&color=02569B" alt="Flutter" />
   <img src="https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&color=F05032" alt="Git" />
 </div>
-
 ---
 
 ### 📈 GitHub Stats
@@ -45,20 +43,23 @@ Here are some of the technologies and tools I work with:
 ---
 
 ### ✨ Fun Projects
-Here are a few of my open-source projects that I'm proud of:
+Here are a few of my projects that I'm proud of or I'm working on:
 
-- [📦 Proyecto 1](https://github.com/tu-usuario/proyecto1) – breve descripción.
-- [💻 Proyecto 2](https://github.com/tu-usuario/proyecto2) – breve descripción.
-- [🚀 Proyecto 3](https://github.com/tu-usuario/proyecto3) – breve descripción.
+- [🚀 Proyecto Gymbros FrontEnd]([https://github.com/josemird/gymbros-frontend])
+- [💻 Proyecto Gymbros Backend]([https://github.com/josemird/gymbros-backend])
+- [🤖 Proyecto ChatAI]([https://github.com/josemird/chatAI])
+- [📦 Proyecto Sorteos]([https://github.com/josemird/sorteos])
+- [🎲 Proyecto Shoppy]([https://github.com/Pizzacorn/shoppy_4])
+- [👔 Proyecto Lawyer Website]([https://github.com/josemird/lawyerWebApp])
+
 
 ---
 
 ### 🌍 Connect with me
 <p align="center">
-  <a href="https://linkedin.com/in/tu-usuario"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn" /></a>
-  <a href="https://twitter.com/tu-usuario"><img src="https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter" alt="Twitter" /></a>
-  <a href="https://instagram.com/tu-usuario"><img src="https://img.shields.io/badge/Instagram-ff69b4?style=flat&logo=instagram" alt="Instagram" /></a>
-  <a href="mailto:tu-email@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/josemird/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn" /></a>
+  <a href="https://www.instagram.com/josemird_/"><img src="https://img.shields.io/badge/Instagram-ff69b4?style=flat&logo=instagram" alt="Instagram" /></a>
+  <a href="mailto:josemidaw22@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 <p align="center">
