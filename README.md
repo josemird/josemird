@@ -19,8 +19,8 @@
 ### 🚀 About Me
 - 🌱 Currently learning: **Angular & Laravel**
 - ⚡ Working on: **Gymbros App**
-- 💻 Favs: FrontEnd and Design
-- 👌 Hobbies : Videogames and Nature
+- 💻 Favs: **FrontEnd and Design**
+- 👌 Hobbies : **Videogames and Nature**
 ---
 
 ### 🛠️ Tech Stack
