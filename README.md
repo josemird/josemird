@@ -1,7 +1,7 @@
 <h1 align="center">Jose Miguel | Web Developer</h1>
 
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4D03AQF7b8EZVHMyUg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1723368991675?e=1749081600&v=beta&t=PVUysbHqr8In3D_f9V7eEs52tCv_R8IEmORmldufvtE" width="175"/>
+  <img src="https://media.licdn.com/dms/image/v2/D4D03AQF7b8EZVHMyUg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1723368991675?e=1749081600&v=beta&t=PVUysbHqr8In3D_f9V7eEs52tCv_R8IEmORmldufvtE" width="200"/>
 </p>
 
 <p align="center">
