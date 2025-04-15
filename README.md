@@ -42,6 +42,7 @@ Here are some of the technologies and tools I work:
   <img src="https://img.shields.io/badge/Design-Illustrator-informational?style=flat&logo=adobeillustrator&color=FF9A00" alt="Illustrator" />
 </div>
 
+
 ---
 
 ### ✨ Projects
