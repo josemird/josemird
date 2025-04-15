@@ -38,6 +38,8 @@ Here are some of the technologies and tools I work:
   <img src="https://img.shields.io/badge/Database-Firebase-informational?style=flat&logo=firebase&color=FFCA28" alt="Firebase" />
   <img src="https://img.shields.io/badge/Framework-Flutter-informational?style=flat&logo=flutter&color=02569B" alt="Flutter" />
   <img src="https://img.shields.io/badge/Design-Figma-informational?style=flat&logo=figma&color=F24E1E" alt="Figma" />
+  <img src="https://img.shields.io/badge/Design-Adobe%20XD-informational?style=flat&logo=adobexd&color=FF61F6" alt="Adobe" />
+
 </div>
 
 ---
