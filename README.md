@@ -24,7 +24,7 @@
 ---
 
 ### 🛠️ Tech Stack
-Here are some of the technologies and tools I work:
+Here are some of the technologies and tools I work with:
 
 <div align="center">
   <img src="https://img.shields.io/badge/Markup-HTML5-informational?style=flat&logo=html5&color=E34F26" alt="HTML5" />
@@ -47,12 +47,12 @@ Here are some of the technologies and tools I work:
 ### ✨ Projects
 Here are a few of my projects that I'm proud of or I'm working on:
 
-- [🚀 Proyecto Gymbros FrontEnd](https://github.com/josemird/gymbros-frontend)
-- [💻 Proyecto Gymbros Backend](https://github.com/josemird/gymbros-backend)
-- [🤖 Proyecto ChatAI](https://github.com/josemird/chatAI)
-- [📦 Proyecto Sorteos](https://github.com/josemird/sorteos)
-- [🎲 Proyecto Shoppy](https://github.com/Pizzacorn/shoppy_4)
-- [👔 Proyecto Lawyer Website](https://github.com/josemird/lawyerWebApp)
+- [🚀 Gymbros FrontEnd](https://github.com/josemird/gymbros-frontend)
+- [💻 Gymbros Backend](https://github.com/josemird/gymbros-backend)
+- [🤖 ChatAI](https://github.com/josemird/chatAI)
+- [📦 Sorteos](https://github.com/josemird/sorteos)
+- [🎲 Shoppy](https://github.com/Pizzacorn/shoppy_4)
+- [👔 Lawyer Website](https://github.com/josemird/lawyerWebApp)
 
 ---
 
