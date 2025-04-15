@@ -39,7 +39,6 @@ Here are some of the technologies and tools I work:
   <img src="https://img.shields.io/badge/Framework-Flutter-informational?style=flat&logo=flutter&color=02569B" alt="Flutter" />
   <img src="https://img.shields.io/badge/Design-Figma-informational?style=flat&logo=figma&color=F24E1E" alt="Figma" />
   <img src="https://img.shields.io/badge/Design-Photoshop-informational?style=flat&logo=adobephotoshop&color=31A8FF" alt="Photoshop" />
-  <img src="https://img.shields.io/badge/Design-Illustrator-informational?style=flat&logo=adobeillustrator&color=FF9A00" alt="Illustrator" />
 </div>
 
 
