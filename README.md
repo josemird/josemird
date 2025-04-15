@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <b>FrontEnd Developer | Full Stack Developer | Design and RRPP</b>
+  <b>FrontEnd Developer | Full Stack Developer | Design and Advertising</b>
 </p>
 
 <p align="center">
